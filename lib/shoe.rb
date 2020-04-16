@@ -10,6 +10,7 @@ BRANDS = []
   
   def brand= (brand)
     @brand = brand
+  if 
     BRANDS << brand 
   end
   
